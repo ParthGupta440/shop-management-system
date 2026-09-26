@@ -70,3 +70,5 @@ Parth Gupta
 B.Tech CSE
 VIT Bhopal
 (Python Essentials Course Project)
+## Repository Link
+https://github.com/ParthGupta440/shop-management-system
